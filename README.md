@@ -126,6 +126,8 @@ SQL Sales Queries.sql
 ```
 
 ---
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/856f12c2-5d04-4eaf-b425-3b73b4474674" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a0ddb300-1b19-4373-9c85-66b59f5bdccb" />
 
 ### 5. Dashboard Development
 
@@ -151,6 +153,10 @@ Designed an interactive Power BI dashboard featuring:
 - Interactive Filters (Slicers)
 
 ---
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/434f6f49-b51d-49b2-bf5b-3f386b9bbca5" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/6c3db13a-a04d-473b-8796-1eb67a178483" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/969a5e35-3e35-45a0-9837-32f3abc28f3a" />
+
 
 ## 📈 Key Insights
 
